@@ -132,11 +132,14 @@ This project is your chance to:
 
 - [ ] Figma wireframes
 - [ ] Design system (colors, fonts, icons, images)
+- [ ] Responsive design for mobile and tablet
 - [ ] Home page
 - [ ] Booking page
 - [ ] Feedback page
 - [ ] Gallery page
 - [ ] GitHub project link
 - [ ] Class presentation
+- [ ] Optional: Carusel for gallery page using CSS
+- [ ] Optional: Interactive elements using JavaScript
 
 ---
